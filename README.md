@@ -1,0 +1,2 @@
+# fxstreet
+Scraper for fxstreet
