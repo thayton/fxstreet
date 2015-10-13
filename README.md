@@ -11,7 +11,7 @@ Setup a virtual environment:
 
 Install dependences (BeautifulSoup and Requests):
 
-    $ pip install requirements.txt
+    $ pip install -r requirements.txt
 
 Run the scraper:
 
